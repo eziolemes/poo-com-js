@@ -1,0 +1,16 @@
+{
+  "name": "js-poo",
+  "version": "1.0.0",
+  "main": "User.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
